@@ -18,7 +18,7 @@ npx next dev
 ```
 cd /Users/puru/next.js/quiz-app/quiz-app2
 npx next build
-# This is custom to move dashboard.html to dashboard/index.html
+# A custom script to move single HTML file, such as dashboard.html to dashboard/index.html
 ./move.sh
 ```
 
