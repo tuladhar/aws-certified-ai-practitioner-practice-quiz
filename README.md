@@ -9,7 +9,7 @@
 ## Local Development
 
 1. Run development server
-```
+```bash
 cd /Users/puru/next.js/quiz-app/quiz-app2
 npx next dev
 ```
@@ -18,7 +18,7 @@ npx next dev
 ## Release
 
 1. Build static files
-```
+```bash
 cd /Users/puru/next.js/quiz-app/quiz-app2
 npx next build
 # A custom script to move single HTML file, such as dashboard.html to dashboard/index.html
