@@ -19,6 +19,7 @@ npx next dev
 cd /Users/puru/next.js/quiz-app/quiz-app2
 npx next build
 # A custom script to move single HTML file, such as dashboard.html to dashboard/index.html
+# Why? API Routes cannot be used with "output: export" - See next.config.ts
 ./move.sh
 ```
 
