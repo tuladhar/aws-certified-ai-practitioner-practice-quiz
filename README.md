@@ -1,6 +1,9 @@
 # AWS Certified AI Practitioner (AIF-C01) - Practice Quiz
 
-Visit: https://aif.purutuladhar.com
+👇 Challenge your AI knowledge:
+- https://aif.purutuladhar.com
+
+![Nov-15-2024 3-20-01 PM](https://github.com/user-attachments/assets/ef6d2893-cbac-42ca-b400-a6ddde017848)
 
 
 ## Local Development
